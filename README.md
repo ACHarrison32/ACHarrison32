@@ -19,3 +19,42 @@
 #### :bank: • Bank Account Project          Spring 2022
 #### - Worked with project partner to create a bank account system for students and faculty.
 #### - Created working code that could create an account as well as check balance, deposit, withdraw, and transfer money.
+
+## :notebook: Relevant Courses
+#### • SOFTWARE ENGINEERING
+#### • OBJECT ORIENTED PROGRAMMING
+#### • ADVANCE STRUCTURES AND ALGORITHMS
+#### • LOGIC DESIGN
+#### • THEORY OF COMPUTATION
+
+## 	:keyboard: Key Skills 
+#### • C++
+#### • JAVA
+#### • Python
+#### • Kotlin
+#### • Go
+#### • ANDROID STUDIO
+#### • MICROSOFT EXCEL
+#### • GITHUB
+#### • LEADERSHIP
+#### • TEAM WORK
+#### • STAFF TRAINING
+
+## :office: Experience
+#### 	:fork_and_knife: • Server / Certified Trainer          January 2022 – Present
+#### • Olive Garden | Wichita Falls, TX
+#### - Displayed enthusiasm and promoted excellent service to
+#### customers, successfully increasing referrals and walk-in business.
+#### - Analyzed company training methods and made adjustments to rectify issues, increase efficiency, and exceed training goals resulting in better performance.
+#### :plate_with_cutlery: • Server April 2021 – October 2021
+#### • Harvey’s Family Restaurant | Wichita Falls, TX
+#### - Cultivated warm relationships with regular customers
+#### - Checked with customers to determine satisfaction with meals promptly taking action to correct problems.
+
+## :toolbox: Volunteer Work 
+#### • NORTH TEXAS AREA STUDENT CONFERENCE           2023
+#### • FIRST AID STRONG           2019
+####     -DIRECTOR OF PURCHASING
+#### • GIRLS BASKETBALL           2017
+####     -ASSISITANT COACH
+#### • CAMP ABILITIES           2016
