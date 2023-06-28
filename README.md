@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
+## About Me
+
+#### :mortar_board:
 <!--
 **ACHarrison32/ACHarrison32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
