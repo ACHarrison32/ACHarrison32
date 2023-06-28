@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## :computer:About Me
 
@@ -48,6 +48,9 @@
 #### :plate_with_cutlery: • Server April 2021 – October 2021
 #### • Harvey’s Family Restaurant | Wichita Falls, TX
 #### - Cultivated warm relationships with regular customers
+
+## :page_facing_up: Actual Resume
+<img src >
 #### - Checked with customers to determine satisfaction with meals promptly taking action to correct problems.
 
 ## :toolbox: Volunteer Work 
