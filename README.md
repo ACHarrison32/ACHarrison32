@@ -43,8 +43,7 @@
 ## :office: Experience
 #### 	:fork_and_knife: • Server / Certified Trainer          January 2022 – Present
 #### • Olive Garden | Wichita Falls, TX
-#### - Displayed enthusiasm and promoted excellent service to
-#### customers, successfully increasing referrals and walk-in business.
+#### - Displayed enthusiasm and promoted excellent service to customers, successfully increasing referrals and walk-in business.
 #### - Analyzed company training methods and made adjustments to rectify issues, increase efficiency, and exceed training goals resulting in better performance.
 #### :plate_with_cutlery: • Server April 2021 – October 2021
 #### • Harvey’s Family Restaurant | Wichita Falls, TX
