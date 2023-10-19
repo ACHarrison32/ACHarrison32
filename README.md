@@ -61,4 +61,4 @@
 #### • CAMP ABILITIES           2016
 
 ## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/Resume.PNG" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/Andrew%20Harrison%20Resume.PNG" >
