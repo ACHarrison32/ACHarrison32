@@ -7,18 +7,20 @@
 #### :mountain: Besides Computer Science, I find joy in nature. I love camping and hiking, and I also enjoy expressing myself through art by painting in my free time.
 
 ## :closed_book: Relevant Coursework
+#### 	:soccer: Fantasy Manager Database         Fall 2023
+#### - Led a team to create a user-friendly Fantasy Soccer League database using SQL.
+#### - Improved data management for an enhanced gaming experience.
+#### - Made it easier for users to track and enjoy their Fantasy Soccer League.
 #### :sandwich: • Lunch Decider Mobile Application          Spring 2023
-#### - Team Leader for Senior Design Project.
-#### - Worked with a team to develop an android application that can determine where to eat lunch.
+#### - Guided a team as the Team Leader in our Senior Design Project.
+#### - Collaborated with the team to develop an android application that simplifies the processing of choosing a lunch spot. 
 #### 	:desktop_computer: • A.I. Predictions Presentation          April 2023
-#### - Researched articles on use of artificial intelligence to help predict world issues such as climate change, forest fires, floods, weather forecasting, and earthquakes.
-#### - Volunteered and presented at the North Texas Area Student Conference.
+#### - Conducted research on the application of artificial intelligence in predicting global issues such as climate change, forest fires, floods, weather forecasting, and earthquakes.
+#### - Volunteered as a presenter at the North Texas Area Student Conference to share insights on the potential of A.I. in addressing pressing world challenges. 
 #### :heavy_multiplication_x: • Menelaus’s Theorem Presentation          November 2022
-#### - Presented Triangle Hazards 12165 from UVA Online Judge site.
-#### - Described the application of Menelaus’s Theorem to the problem and created working code to solve the problem.
-#### :bank: • Bank Account Project          Spring 2022
-#### - Worked with project partner to create a bank account system for students and faculty.
-#### - Created working code that could create an account as well as check balance, deposit, withdraw, and transfer money.
+#### - Presented “Triangle Hazards 12165 from UVA Online Judge site.
+#### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
+#### - Developed functional code to provide a solution for the problem.
 
 ## :notebook: Relevant Courses
 #### • SOFTWARE ENGINEERING
