@@ -7,17 +7,17 @@
 #### :mountain: Besides Computer Science, I find joy in nature. I love camping and hiking, and I also enjoy expressing myself through art by painting in my free time.
 
 ## :closed_book: Relevant Coursework
-#### 	:soccer: Fantasy Manager Database         Fall 2023
+#### 	:soccer: Fantasy Manager Database | Fall 2023
 #### - Led a team to create a user-friendly Fantasy Soccer League database using SQL.
 #### - Improved data management for an enhanced gaming experience.
 #### - Made it easier for users to track and enjoy their Fantasy Soccer League.
-#### :sandwich: • Lunch Decider Mobile Application          Spring 2023
+#### :sandwich: • Lunch Decider Mobile Application | Spring 2023
 #### - Guided a team as the Team Leader in our Senior Design Project.
 #### - Collaborated with the team to develop an android application that simplifies the processing of choosing a lunch spot. 
-#### 	:desktop_computer: • A.I. Predictions Presentation          April 2023
+#### 	:desktop_computer: • A.I. Predictions Presentation | April 2023
 #### - Conducted research on the application of artificial intelligence in predicting global issues such as climate change, forest fires, floods, weather forecasting, and earthquakes.
 #### - Volunteered as a presenter at the North Texas Area Student Conference to share insights on the potential of A.I. in addressing pressing world challenges. 
-#### :heavy_multiplication_x: • Menelaus’s Theorem Presentation          November 2022
+#### :heavy_multiplication_x: • Menelaus’s Theorem Presentation | November 2022
 #### - Presented “Triangle Hazards 12165 from UVA Online Judge site.
 #### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
 #### - Developed functional code to provide a solution for the problem.
