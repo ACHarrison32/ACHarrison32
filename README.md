@@ -31,24 +31,27 @@
 ####   - December 01, 2023
 
 ## :notebook: Relevant Courses
-#### • SOFTWARE ENGINEERING
-#### • OBJECT ORIENTED PROGRAMMING
-#### • ADVANCE STRUCTURES AND ALGORITHMS
-#### • LOGIC DESIGN
-#### • THEORY OF COMPUTATION
+#### • Software Engineering
+#### • Object Oriented Programming
+#### • Advance Structures and Algorithms
+#### • Logic Design
+#### • Theory of Computation
+#### • Database Management Systems
+#### • Operating Systems
 
 ## 	:keyboard: Key Skills 
 #### • C++
-#### • JAVA
+#### • Java
 #### • Python
 #### • Kotlin
-#### • Go
-#### • ANDROID STUDIO
-#### • MICROSOFT EXCEL
-#### • GITHUB
-#### • LEADERSHIP
-#### • TEAM WORK
-#### • STAFF TRAINING
+#### • GoLang
+#### • SQL
+#### • Android Studio
+#### • Microsoft Excel
+#### • Github
+#### • Leadership
+#### • Team Work
+#### • Staff Training
 
 ## :office: Experience
 #### 	:fork_and_knife: • Server / Certified Trainer          January 2022 – Present
@@ -61,12 +64,12 @@
 #### - Checked with customers to determine satisfaction with meals promptly taking action to correct problems.
 
 ## :toolbox: Volunteer Work 
-#### • NORTH TEXAS AREA STUDENT CONFERENCE           2023
-#### • FIRST AID STRONG           2019
-####     -DIRECTOR OF PURCHASING
-#### • GIRLS BASKETBALL           2017
-####     -ASSISITANT COACH
-#### • CAMP ABILITIES           2016
+#### • North Texas Area Student Conference | 2023
+#### • First Aid Strong | 2019
+####     -DIirector of Puchasing
+#### • Girls Basketball | 2017
+####     -Assistant Coach
+#### • Camp Abilities | 2016
 
 ## :page_facing_up: Actual Resume
 <img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/A_H_Resume.PNG" >
