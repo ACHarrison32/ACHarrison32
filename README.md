@@ -22,6 +22,14 @@
 #### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
 #### - Developed functional code to provide a solution for the problem.
 
+## :page_with_curl: Certifications
+#### • Data Analyst in SQL
+####   - December 10, 2023
+#### • ServiceNow IT Leadership
+####   - November 15, 2023
+#### • edX IT Foundations
+####   - December 01, 2023
+
 ## :notebook: Relevant Courses
 #### • SOFTWARE ENGINEERING
 #### • OBJECT ORIENTED PROGRAMMING
@@ -61,4 +69,4 @@
 #### • CAMP ABILITIES           2016
 
 ## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/Andrew%20Harrison%20Resume.PNG" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/A_H_Resume.PNG" >
