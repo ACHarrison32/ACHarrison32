@@ -7,27 +7,27 @@
 #### :mountain: Besides Computer Science, I find joy in nature. I love camping and hiking, and I also enjoy expressing myself through art by painting in my free time.
 
 ## :closed_book: Relevant Coursework
-#### 	:soccer: Fantasy Manager Database | Fall 2023
+### 	:soccer: Fantasy Manager Database | Fall 2023
 #### - Led a team to create a user-friendly Fantasy Soccer League database using SQL.
 #### - Improved data management for an enhanced gaming experience.
 #### - Made it easier for users to track and enjoy their Fantasy Soccer League.
-#### :sandwich: • Lunch Decider Mobile Application | Spring 2023
+### :sandwich: • Lunch Decider Mobile Application | Spring 2023
 #### - Guided a team as the Team Leader in our Senior Design Project.
 #### - Collaborated with the team to develop an android application that simplifies the processing of choosing a lunch spot. 
-#### 	:desktop_computer: • A.I. Predictions Presentation | April 2023
+### 	:desktop_computer: • A.I. Predictions Presentation | April 2023
 #### - Conducted research on the application of artificial intelligence in predicting global issues such as climate change, forest fires, floods, weather forecasting, and earthquakes.
 #### - Volunteered as a presenter at the North Texas Area Student Conference to share insights on the potential of A.I. in addressing pressing world challenges. 
-#### :heavy_multiplication_x: • Menelaus’s Theorem Presentation | November 2022
+### :heavy_multiplication_x: • Menelaus’s Theorem Presentation | November 2022
 #### - Presented “Triangle Hazards 12165 from UVA Online Judge site.
 #### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
 #### - Developed functional code to provide a solution for the problem.
 
 ## :page_with_curl: Certifications
-#### • Data Analyst in SQL
+### • Data Analyst in SQL
 ####   - December 10, 2023
-#### • ServiceNow IT Leadership
+### • ServiceNow IT Leadership
 ####   - November 15, 2023
-#### • edX IT Foundations
+### • edX IT Foundations
 ####   - December 01, 2023
 
 ## :notebook: Relevant Courses
@@ -54,22 +54,22 @@
 #### • Staff Training
 
 ## :office: Experience
-#### 	:fork_and_knife: • Server / Certified Trainer          January 2022 – Present
+### 	:fork_and_knife: • Server / Certified Trainer          January 2022 – Present
 #### • Olive Garden | Wichita Falls, TX
 #### - Displayed enthusiasm and promoted excellent service to customers, successfully increasing referrals and walk-in business.
 #### - Analyzed company training methods and made adjustments to rectify issues, increase efficiency, and exceed training goals resulting in better performance.
-#### :plate_with_cutlery: • Server April 2021 – October 2021
+### :plate_with_cutlery: • Server April 2021 – October 2021
 #### • Harvey’s Family Restaurant | Wichita Falls, TX
 #### - Cultivated warm relationships with regular customers
 #### - Checked with customers to determine satisfaction with meals promptly taking action to correct problems.
 
 ## :toolbox: Volunteer Work 
-#### • North Texas Area Student Conference | 2023
-#### • First Aid Strong | 2019
-####     -DIirector of Puchasing
-#### • Girls Basketball | 2017
+### • North Texas Area Student Conference | 2023
+### • First Aid Strong | 2019
+####     -Director of Puchasing
+### • Girls Basketball | 2017
 ####     -Assistant Coach
-#### • Camp Abilities | 2016
+### • Camp Abilities | 2016
 
 ## :page_facing_up: Actual Resume
 <img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/A_H_Resume.PNG" >
