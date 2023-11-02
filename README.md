@@ -23,12 +23,21 @@
 #### - Developed functional code to provide a solution for the problem.
 
 ## :page_with_curl: Certifications
-### • Data Analyst in SQL
-####   - December 10, 2023
-### • ServiceNow IT Leadership
-####   - November 15, 2023
-### • edX IT Foundations
-####   - December 01, 2023
+### •	Succeeding as a First-Time Tech Manager
+#### -	November 02,2023
+### •	Program Management for IT Professionals
+#### -	November 08, 2023
+### •	Introduction to IT Architecture
+#### -	November 14, 2023
+### •	Creating Your IT Strategy
+#### -	November 17, 2023
+### •	ServiceNow IT Leadership
+#### -	November 19, 2023
+### •	edX IT Foundations
+#### -	December 01, 2023
+### •	Data Analyst in SQL 
+#### -	December 10, 2023
+
 
 ## :notebook: Relevant Courses
 #### • Software Engineering
