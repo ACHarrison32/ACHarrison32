@@ -81,4 +81,4 @@
 ### • Camp Abilities | 2016
 
 ## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/A_H_Resume.PNG" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/AndrewCHarrisonResume.PNG" >
