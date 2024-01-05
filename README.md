@@ -8,36 +8,37 @@
 
 ## :closed_book: Relevant Coursework
 ### 	:soccer: Fantasy Manager Database | Fall 2023
-#### - Led a team to create a user-friendly Fantasy Soccer League database using SQL.
-#### - Improved data management for an enhanced gaming experience.
-#### - Made it easier for users to track and enjoy their Fantasy Soccer League.
+#### -	Led a team to create a user-friendly Fantasy Soccer Database using MySQL.
+#### -	Enhanced user experience for tracking and managing fantasy soccer leagues.
 ### :sandwich: • Lunch Decider Mobile Application | Spring 2023
-#### - Guided a team as the Team Leader in our Senior Design Project.
-#### - Collaborated with the team to develop an android application that simplifies the processing of choosing a lunch spot. 
+#### -	Team leader for senior design project in software engineering.
+#### -	Collaborated with team to develop an Android application that simplifies the processing of choosing a lunch spot.
+#### -	Successfully launched the application on Android Play Store.
 ### 	:desktop_computer: • A.I. Predictions Presentation | April 2023
-#### - Conducted research on the application of artificial intelligence in predicting global issues such as climate change, forest fires, floods, weather forecasting, and earthquakes.
-#### - Volunteered as a presenter at the North Texas Area Student Conference to share insights on the potential of A.I. in addressing pressing world challenges. 
+#### -	Conducted research on the application of Artificial Intelligence in predicting global issues such as climate change, forest fires, earthquakes, and more.
+#### -	Volunteered as a presenter at the North Texas Area Student Conference, emphasizing AI's role in addressing global challenges.
 ### :heavy_multiplication_x: • Menelaus’s Theorem Presentation | November 2022
 #### - Presented “Triangle Hazards 12165 from UVA Online Judge site.
 #### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
-#### - Developed functional code to provide a solution for the problem.
+#### - Developed and demonstrated functional code to provide a solution for the problem. 
 
 ## :page_with_curl: Certifications
 ### •	Succeeding as a First-Time Tech Manager
 #### -	November 02,2023
 ### •	Program Management for IT Professionals
-#### -	November 08, 2023
+#### -	November 09, 2023
 ### •	Introduction to IT Architecture
-#### -	November 14, 2023
+#### -	November 15, 2023
 ### •	Creating Your IT Strategy
 #### -	November 17, 2023
 ### •	ServiceNow IT Leadership
 #### -	November 19, 2023
-### •	edX IT Foundations
-#### -	December 01, 2023
+### •	IT Help Desk for Beginners
+#### -	November 25, 2023
+### •	Python Data Analysis
+#### -	January 31, 2024
 ### •	Data Analyst in SQL 
-#### -	December 10, 2023
-
+#### -	January 31, 2024
 
 ## :notebook: Relevant Courses
 #### • Software Engineering
@@ -49,28 +50,35 @@
 #### • Operating Systems
 
 ## 	:keyboard: Key Skills 
-#### • C++
-#### • Java
-#### • Python
-#### • Kotlin
-#### • GoLang
-#### • SQL
-#### • Android Studio
-#### • Microsoft Excel
-#### • Github
-#### • Leadership
-#### • Team Work
-#### • Staff Training
+#### •	C++
+#### •	GoLang
+#### •	Python
+#### •	Java
+#### •	Kotlin
+#### •	SQL
+#### •	HTML
+#### •	Trello
+#### •	JIRA
+#### •	Github
+#### •	Microsoft Office Skills
+#### •	Windows OS
+#### •	Android Studio
+#### •	Visual Studio
+#### •	Team Work
+#### •	Leadership
+#### •	Time Management
+#### •	Project Management 
 
 ## :office: Experience
-### 	:fork_and_knife: • Server / Certified Trainer          January 2022 – Present
+### 	:fork_and_knife: • Server / Certified Trainer | January 2022 – Present
 #### • Olive Garden | Wichita Falls, TX
-#### - Displayed enthusiasm and promoted excellent service to customers, successfully increasing referrals and walk-in business.
-#### - Analyzed company training methods and made adjustments to rectify issues, increase efficiency, and exceed training goals resulting in better performance.
-### :plate_with_cutlery: • Server April 2021 – October 2021
-#### • Harvey’s Family Restaurant | Wichita Falls, TX
-#### - Cultivated warm relationships with regular customers
-#### - Checked with customers to determine satisfaction with meals promptly taking action to correct problems.
+#### -	Demonstrated strong enthusiasm and delivered exceptional customer service, leading to a notable increase in customer referrals and walk-in business. 
+#### -	Analyzed company training methods and implemented strategic adjustments to address issues, enhance efficiency, and surpass objectives, resulting in overall performance improvement.
+### :gear: • Mechanical Engineering Teaching Assistant | Fall 2019
+#### •	Midwestern State University | Wichita Falls, TX
+#### -	Guided students in understanding and applying SolidWorks for mechanical engineering projects. 
+#### -	Ensured students grasped key concepts and were able to effectively use the software for design and simulation tasks.
+
 
 ## :toolbox: Volunteer Work 
 ### • North Texas Area Student Conference | 2023
@@ -81,4 +89,4 @@
 ### • Camp Abilities | 2016
 
 ## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/AndrewCHarrisonResume.PNG" >
+<img src ="" >
