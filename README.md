@@ -7,7 +7,7 @@
 #### :mountain: Besides Computer Science, I find joy in nature. I love camping and hiking, and I also enjoy expressing myself through art by painting in my free time.
 
 ## :closed_book: Relevant Coursework
-### 	:soccer: Fantasy Manager Database | Fall 2023
+### 	:soccer: [Fantasy Manager Database](https://github.com/ACHarrison32/Fantasy_Soccer_Database/blob/main/README.md) | Fall 2023
 #### -	Led a team to create a user-friendly Fantasy Soccer Database using MySQL.
 #### -	Enhanced user experience for tracking and managing fantasy soccer leagues.
 ### :sandwich: • Lunch Decider Mobile Application | Spring 2023
