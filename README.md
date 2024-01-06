@@ -17,7 +17,7 @@
 ### 	:desktop_computer: • A.I. Predictions Presentation | April 2023
 #### -	Conducted research on the application of Artificial Intelligence in predicting global issues such as climate change, forest fires, earthquakes, and more.
 #### -	Volunteered as a presenter at the North Texas Area Student Conference, emphasizing AI's role in addressing global challenges.
-### :heavy_multiplication_x: • Menelaus’s Theorem Presentation | November 2022
+### :heavy_multiplication_x: • [Menelaus’s Theorem Presentation](https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/Assignments/Presentation/README.md) | November 2022
 #### - Presented “Triangle Hazards 12165 from UVA Online Judge site.
 #### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
 #### - Developed and demonstrated functional code to provide a solution for the problem. 
