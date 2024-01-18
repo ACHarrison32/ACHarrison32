@@ -24,22 +24,14 @@
 #### - Developed and demonstrated functional code to provide a solution for the problem. 
 
 ## :page_with_curl: Certifications
-### •	Succeeding as a First-Time Tech Manager
-#### -	November 02,2023
-### •	Program Management for IT Professionals
-#### -	November 09, 2023
-### •	Introduction to IT Architecture
-#### -	November 15, 2023
-### •	Creating Your IT Strategy
-#### -	November 17, 2023
-### •	ServiceNow IT Leadership
-#### -	November 19, 2023
-### •	IT Help Desk for Beginners
-#### -	November 25, 2023
-### •	Python Data Analysis
-#### -	January 31, 2024
-### •	Data Analyst in SQL 
-#### -	January 31, 2024
+### •	Succeeding as a First-Time Tech Manager | November 02,2023
+### •	Program Management for IT Professionals | November 09, 2023
+### •	Introduction to IT Architecture | November 15, 2023
+### •	Creating Your IT Strategy | November 17, 2023
+### •	ServiceNow IT Leadership | November 19, 2023
+### •	IT Help Desk for Beginners | November 25, 2023
+### •	Python Data Analysis | February 15, 2024
+### •	Data Analyst in SQL | February 19, 2024
 
 ## :notebook: Relevant Courses
 #### ▪	Software Engineering					
@@ -70,38 +62,31 @@
 #### ▪	Has currently earned 6+ service and 4+ sales awards recognizing exceptional customer service and outstanding sales performance.
 ### :gear: • Mechanical Engineering Teaching Assistant | Fall 2019
 #### •	Midwestern State University | Wichita Falls, TX
-#### -	▪	Guided students in understanding and applying SolidWorks for mechanical engineering projects. 
+#### ▪	Guided students in understanding and applying SolidWorks for mechanical engineering projects. 
 #### ▪	Ensured students grasped key concepts and were able to effectively use the software for design and simulation tasks.
 #### ▪	Developed and managed project and test creation, enhancing students' practical application skills in mechanical engineering.
 
 
 ## :toolbox: Volunteer Work 
-#### North Texas Area Student Conference
-#### Wichita Falls, TX
-#### Volunteer						    	                      		             	         
-#### April 2023
+### North Texas Area Student Conference | Wichita Falls, TX | April 2023
+#### Volunteer						    	                      		             	        
 #### ▪	Actively engaged with conference attendees, fostering awareness and discussion on the role of AI in global problem-solving.
 #### ▪	Attended numerous presentations on technology, gaining valuable insights and understanding of emerging trends and advancements in the field.
-#### First Aid Strong					    					                    
-#### Denton, TX
+### First Aid Strong | Denton, TX | January 2017 – January 2020
 #### Director of Purchasing					    	                      		    
-#### January 2017 – January 2020
 #### ▪	Oversaw and optimized purchasing processes, handling around $450 worth of essential first aid supplies, including adhesive bandages, topical antiseptics, and various wound care products, per procurement cycle.
 #### ▪	Managed the procurement of approximately 500 individual first aid items every four months, ensuring cost-effective strategies and efficient supplier negotiations.
 #### ▪	Maintained comprehensive control over all financial operations for First Aid Strong.
-#### Krum Girls Fall Basketball				    					           	          
-#### Krum, TX
+### Krum Girls Fall Basketball | Krum, TX | August 2017 – October 2017
 #### Assistant Coach					    	                      		     
-#### August 2017 – October 2017
 #### ▪	Assisted in coaching and skill development enhancing team performance and individual player growth.
 #### ▪	Contributed to strategy formulation and game planning fostering a competitive and collaborative team environment.
-#### Camp Abilities						    					                    
-#### Denton, TX
+### Camp Abilities | Denton, TX | June 2015 & 2016
 #### Volunteer						    	                      		                      
-#### June 2015 & 2016
 #### ▪	Engaged in activities that promoted physical fitness and sports participation among visually impaired children emphasizing empowerment and inclusivity.
 #### ▪	Provided supportive guidance, ensuring a safe, encouraging, and fun environment for all camp participants.
 
 
 ## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/ACHResume2024.PNG" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/FirstPageResume.PNG" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/LastPageResume.PNG" >
