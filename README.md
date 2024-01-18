@@ -19,19 +19,19 @@
 #### ▪	Conducted research on the application of Artificial Intelligence in predicting global issues such as climate change, forest fires, earthquakes, and more.
 #### ▪	Volunteered as a presenter at the North Texas Area Student Conference emphasizing AI's role in addressing global challenges.                                            
 ### :heavy_multiplication_x: • [Menelaus’s Theorem Presentation](https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/Assignments/Presentation/README.md) | November 2022
-#### - Presented “Triangle Hazards 12165 from UVA Online Judge site.
-#### - Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
-#### - Developed and demonstrated functional code to provide a solution for the problem. 
+#### ▪ Presented “Triangle Hazards 12165 from UVA Online Judge site.
+#### ▪ Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
+#### ▪ Developed and demonstrated functional code to provide a solution for the problem. 
 
 ## :page_with_curl: Certifications
-### •	Succeeding as a First-Time Tech Manager | November 02,2023
-### •	Program Management for IT Professionals | November 09, 2023
-### •	Introduction to IT Architecture | November 15, 2023
-### •	Creating Your IT Strategy | November 17, 2023
-### •	ServiceNow IT Leadership | November 19, 2023
-### •	IT Help Desk for Beginners | November 25, 2023
-### •	Python Data Analysis | February 15, 2024
-### •	Data Analyst in SQL | February 19, 2024
+### ▪	Succeeding as a First-Time Tech Manager | November 02,2023
+### ▪	Program Management for IT Professionals | November 09, 2023
+### ▪	Introduction to IT Architecture | November 15, 2023
+### ▪	Creating Your IT Strategy | November 17, 2023
+### ▪	ServiceNow IT Leadership | November 19, 2023
+### ▪	IT Help Desk for Beginners | November 25, 2023
+### ▪	Python Data Analysis | February 15, 2024
+### ▪	Data Analyst in SQL | February 19, 2024
 
 ## :notebook: Relevant Courses
 #### ▪	Software Engineering					
