@@ -6,6 +6,25 @@
 #### :floppy_disk: I love learning about technology and learning new coding languages. I'm currently learning C++, Java, Python, SQL, HTML, Kotlin, and Go. I enjoy Mobile Application Development, Project Management, Software Developement, Data Analysis, and Information Technology.
 #### :mountain: Besides Computer Science, I find joy in nature. I love camping and hiking, and I also enjoy expressing myself through art by painting in my free time.
 
+
+## :office: Experience
+### :robot: •Robotics Field Engineer | February 2024 – Present
+#### • Apex Systems	Wichita Falls, TX					    	                      		            
+#### • Manages and troubleshoots robotic systems to ensure operational efficiency, collaborating closely with the Support team to proactively identify and resolve issues during planned downtime.
+#### • Exhibits electro-mechanical expertise and proficiency in Linux/command line, contributing to system optimization and preventive maintenance strategies.
+#### • Mentors’ system operators in the effective use of the system, enhancing team skills and ensuring consistent operational excellence.
+### 	:fork_and_knife: • Server / Certified Trainer | January 2022 – February 2024
+#### • Olive Garden | Wichita Falls, TX
+#### ▪	Demonstrates strong enthusiasm and delivers exceptional customer service, leading to a notable increase in customer referrals.
+#### ▪	Analyzes company training methods and implements strategic adjustments to address issues, enhance efficiency, and surpass objectives, resulting in overall performance improvement.
+#### ▪	Has currently earned 6+ service and 4+ sales awards recognizing exceptional customer service and outstanding sales performance.
+### :gear: • Mechanical Engineering Teaching Assistant | Fall 2019
+#### •	Midwestern State University | Wichita Falls, TX
+#### ▪	Guided students in understanding and applying SolidWorks for mechanical engineering projects. 
+#### ▪	Ensured students grasped key concepts and were able to effectively use the software for design and simulation tasks.
+#### ▪	Developed and managed project and test creation, enhancing students' practical application skills in mechanical engineering.
+
+
 ## :closed_book: Relevant Coursework
 ### 	:soccer: • [Fantasy Manager Database](https://github.com/ACHarrison32/Fantasy_Soccer_Database/blob/main/README.md) | August 2023 – December 2023
 #### ▪	Led the Fantasy Soccer Manager Database creation using MySQL for user-friendly data handling.
@@ -23,25 +42,16 @@
 #### ▪ Explained the practical application of Menelaus’s Theorem to solve the problem effectively.
 #### ▪ Developed and demonstrated functional code to provide a solution for the problem. 
 
-## :page_with_curl: Certifications
-### ▪	Succeeding as a First-Time Tech Manager | November 02,2023
-### ▪	Program Management for IT Professionals | November 09, 2023
-### ▪	Introduction to IT Architecture | November 15, 2023
-### ▪	Creating Your IT Strategy | November 17, 2023
-### ▪	ServiceNow IT Leadership | November 19, 2023
-### ▪	IT Help Desk for Beginners | November 25, 2023
-### ▪	Python Data Analysis | February 15, 2024
-### ▪	Data Analyst in SQL | February 19, 2024
 
 ## :notebook: Relevant Courses
-#### ▪	Software Engineering					
+#### ▪	Software Engineering
+#### ▪ Computer Communications and Networks
 #### ▪ Theory of Computation 
 #### ▪	Object Oriented Programming				
 #### ▪ Operating Systems
 #### ▪	Advance Structures and Algorithms			
 #### ▪ Computer Architecture
 #### ▪	Logic Design						
-#### ▪ Computer Communications and Networks
 #### ▪	Database Management Systems			
 #### ▪ Introduction to Cyber Security
 
@@ -52,19 +62,6 @@
 #### ▪	Database: SQL Server, Oracle      
 #### ▪	Software and Tools: MS Visio, MS Excel, MS PowerPoint, MS Word, GitHub, Trello, JIRA
 #### ▪	Development Environments: Visual Studio, Android Studio
-
-
-## :office: Experience
-### 	:fork_and_knife: • Server / Certified Trainer | January 2022 – Present
-#### • Olive Garden | Wichita Falls, TX
-#### ▪	Demonstrates strong enthusiasm and delivers exceptional customer service, leading to a notable increase in customer referrals.
-#### ▪	Analyzes company training methods and implements strategic adjustments to address issues, enhance efficiency, and surpass objectives, resulting in overall performance improvement.
-#### ▪	Has currently earned 6+ service and 4+ sales awards recognizing exceptional customer service and outstanding sales performance.
-### :gear: • Mechanical Engineering Teaching Assistant | Fall 2019
-#### •	Midwestern State University | Wichita Falls, TX
-#### ▪	Guided students in understanding and applying SolidWorks for mechanical engineering projects. 
-#### ▪	Ensured students grasped key concepts and were able to effectively use the software for design and simulation tasks.
-#### ▪	Developed and managed project and test creation, enhancing students' practical application skills in mechanical engineering.
 
 
 ## :toolbox: Volunteer Work 
@@ -88,5 +85,5 @@
 
 
 ## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/FrontPageResume.PNG" >
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/LastPageResume.PNG" >
+<img src ="" >
+<img src ="" >
