@@ -85,5 +85,5 @@
 
 
 ## :page_facing_up: Actual Resume
-<img src ="" >
-<img src ="" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/First.PNG" >
+<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/Last.PNG" >
