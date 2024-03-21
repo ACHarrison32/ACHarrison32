@@ -3,6 +3,7 @@
 ## :computer:About Me
 
 #### :mortar_board: I am a recent graduate from Midwestern State University with a Bachelors of Science in Computer Science.
+#### :robot: I currently work as a Robotics Field Engineer for Apex System currently working on the Walmart Alphabot system.
 #### :floppy_disk: I love learning about technology and learning new coding languages. I'm currently learning C++, Java, Python, SQL, HTML, Kotlin, and Go. I enjoy Mobile Application Development, Project Management, Software Developement, Data Analysis, and Information Technology.
 #### :mountain: Besides Computer Science, I find joy in nature. I love camping and hiking, and I also enjoy expressing myself through art by painting in my free time.
 
