@@ -9,11 +9,14 @@
 
 
 ## :office: Experience
-### :robot: •Robotics Field Engineer | February 2024 – Present
+### :robot: •Robotics Field Engineer / Site Lead in Training | February 2024 – Present
 #### • Apex Systems	Wichita Falls, TX					    	                      		            
 #### • Manages and troubleshoots robotic systems to ensure operational efficiency, collaborating closely with the Support team to proactively identify and resolve issues during planned downtime.
 #### • Exhibits electro-mechanical expertise and proficiency in Linux/command line, contributing to system optimization and preventive maintenance strategies.
 #### • Mentors’ system operators in the effective use of the system, enhancing team skills and ensuring consistent operational excellence.
+#### • Engaged in comprehensive site lead training, developing leadership skills and strategic operational insights to support future supervisory responsibilities.
+#### • Performs hands-on maintenance and repairs of robotic systems, addressing mechanical and electrical issues to minimize system downtime and ensure smooth operations.
+
 ### 	:fork_and_knife: • Server / Certified Trainer | January 2022 – February 2024
 #### • Olive Garden | Wichita Falls, TX
 #### ▪	Demonstrates strong enthusiasm and delivers exceptional customer service, leading to a notable increase in customer referrals.
@@ -46,23 +49,24 @@
 
 ## :notebook: Relevant Courses
 #### ▪	Software Engineering
-#### ▪ Computer Communications and Networks
-#### ▪ Theory of Computation 
+#### ▪  Computer Communications and Networks
+#### ▪  Theory of Computation 
 #### ▪	Object Oriented Programming				
-#### ▪ Operating Systems
+#### ▪  Operating Systems
 #### ▪	Advance Structures and Algorithms			
-#### ▪ Computer Architecture
+#### ▪  Computer Architecture
 #### ▪	Logic Design						
-#### ▪	Database Management Systems			
-#### ▪ Introduction to Cyber Security
+#### ▪  Database Management Systems			
+#### ▪  Introduction to Cyber Security
 
 
 ## 	:keyboard: Key Skills 
-#### ▪	Programming Languages: C++, C#, Python, Java, Kotlin, GoLang, SQL, HTML					
-#### ▪	Operating Systems: Windows 7/ 8/ 10/ 11, Currently learning Linux			
-#### ▪	Database: SQL Server, Oracle      
-#### ▪	Software and Tools: MS Visio, MS Excel, MS PowerPoint, MS Word, GitHub, Trello, JIRA
-#### ▪	Development Environments: Visual Studio, Android Studio
+#### ▪  Programming Languages: C++, C#, Python, Java, Kotlin, GoLang, SQL, HTML 
+#### ▪  Robotics & Automation: Bot SPLC, WiFi integration, HMI systems 
+#### ▪  Operating Systems: Windows 7/ 8/ 10/ 11, Linux 
+#### ▪  Database: SQL Server, Oracle 
+#### ▪  Software and Tools: MS Visio, MS Excel, MS PowerPoint, MS Word, MS Teams, GitHub, Trello, JIRA, Power BI 
+#### ▪  Development Environments: Visual Studio, Android Studio
 
 
 ## :toolbox: Volunteer Work 
@@ -84,7 +88,3 @@
 #### ▪	Engaged in activities that promoted physical fitness and sports participation among visually impaired children emphasizing empowerment and inclusivity.
 #### ▪	Provided supportive guidance, ensuring a safe, encouraging, and fun environment for all camp participants.
 
-
-## :page_facing_up: Actual Resume
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/First.PNG" >
-<img src ="https://github.com/ACHarrison32/ACHarrison32/blob/main/Last.PNG" >
